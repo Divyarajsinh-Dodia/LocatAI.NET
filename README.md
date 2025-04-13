@@ -9,6 +9,11 @@
 
   <h3>🤖 AI-powered element location for Selenium tests</h3>
   <p>Find any element using natural language - no more brittle locators!</p>
+
+  <p>
+    <a href="CHANGELOG.md"><strong>View Changelog »</strong></a> •
+    <a href="#-how-to-use"><strong>Get Started »</strong></a>
+  </p>
 </div>
 
 ---
