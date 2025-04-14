@@ -48,7 +48,7 @@ To use LocatAI.NET, you need:
 - An OpenAI API key
 - Basic knowledge of Selenium WebDriver
 
-> **⚠️ Note:** Currently, LocatAI.NET works exclusively with OpenAI's GPT-4 model. Support for other models is coming in future updates.
+> **⚠️ Note:** Currently, LocatAI.NET works exclusively with OpenAI's models only. Support for other models is coming in future updates.
 
 ### 📦 Installation
 
